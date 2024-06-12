@@ -3,7 +3,7 @@ import type { Metadata, Site, Socials } from "@types";
 export const SITE: Site = {
   TITLE: "Blog",
   DESCRIPTION: "Astro Micro is an accessible and lightweight blog.",
-  EMAIL: "abssneakersS@gmail.com",
+  EMAIL: "abssneakers@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 5,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
 };
